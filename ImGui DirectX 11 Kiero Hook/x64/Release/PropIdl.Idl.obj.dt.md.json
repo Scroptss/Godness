@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\um\\propidl.idl",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\objidl.idl",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\oaidl.idl",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared\\wtypes.idl"
+        ]
+    }
+}

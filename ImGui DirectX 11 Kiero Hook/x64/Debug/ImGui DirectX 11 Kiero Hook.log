@@ -1,0 +1,173 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : voir la définition précédente de 'DXGI_STATUS_OCCLUDED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : voir la définition précédente de 'DXGI_STATUS_CLIPPED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : voir la définition précédente de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : voir la définition précédente de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : voir la définition précédente de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : voir la définition précédente de 'DXGI_STATUS_MODE_CHANGED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : voir la définition précédente de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : voir la définition précédente de 'DXGI_ERROR_INVALID_CALL'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : voir la définition précédente de 'DXGI_ERROR_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : voir la définition précédente de 'DXGI_ERROR_MORE_DATA'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : voir la définition précédente de 'DXGI_ERROR_UNSUPPORTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_RESET'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : voir la définition précédente de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : voir la définition précédente de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : voir la définition précédente de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : voir la définition précédente de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : voir la définition précédente de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : voir la définition précédente de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : voir la définition précédente de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : voir la définition précédente de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : voir la définition précédente de 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : voir la définition précédente de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : voir la définition précédente de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : voir la définition précédente de 'D3D10_ERROR_FILE_NOT_FOUND'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,21): warning C4838: la conversion de 'LONG' en 'float' requiert une conversion restrictive
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,21): warning C4244: 'initialisation' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,36): warning C4838: la conversion de 'LONG' en 'float' requiert une conversion restrictive
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,36): warning C4244: 'initialisation' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\structs.h(55,25): warning C4369: 'LocalClientNum_t::INVALID_LOCAL_CLIENT' : la valeur de l'énumérateur '4294967295' ne peut pas être représentée sous la forme 'int', la valeur est '-1'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\structs.h(1379,11): warning C4114: même qualificateur de type utilisé plusieurs fois
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(726,80): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1097,74): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1117,79): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): warning C4473: 'sprintf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): message : les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 0 ont été fournis
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): message : l'argument variadique manquant 1 est demandé par la chaîne de format '%s'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10242): message : voir la référence à l'instanciation de la fonction modèle 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10239): message : voir la référence à l'instanciation de la fonction modèle 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10200): message : pendant la compilation de la fonction membre classe modèle 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)'
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(23185): message : voir la référence à l'instanciation de la fonction modèle 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(23183): message : voir la référence à l'instanciation classe modèle 'nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>' en cours de compilation
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(25259): message : voir la référence à l'instanciation de la fonction modèle 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' en cours de compilation
+          with
+          [
+              IteratorType=const char *
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(25259): message : voir la référence à l'instanciation de la fonction modèle 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' en cours de compilation
+          with
+          [
+              IteratorType=const char *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\xutility(142,1): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(813): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Construct_in_place<unsigned int,size_t&>(_Ty &,size_t &) noexcept' en cours de compilation
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(800): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(806): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(886): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(888): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1565): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\xmemory(673,1): warning C4267: 'initialisation' : conversion de 'size_t' en '_Objty', perte possible de données
+          with
+          [
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(836): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<std::_Vbase>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(860): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<std::_Vbase>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(800): message : voir la référence à l'instanciation de la fonction modèle 'unsigned int *std::vector<std::_Vbase,std::allocator<std::_Vbase>>::_Emplace_reallocate<size_t&>(unsigned int *const ,size_t &)' en cours de compilation
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\vector(809): message : voir la référence à l'instanciation de la fonction modèle 'unsigned int *std::vector<std::_Vbase,std::allocator<std::_Vbase>>::_Emplace_reallocate<size_t&>(unsigned int *const ,size_t &)' en cours de compilation
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(208): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(212): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(216): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(220): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(196): warning C4715: 'ImGuiToast::get_icon' : les chemins de contrôle ne retournent pas tous une valeur
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(165): warning C4715: 'ImGuiToast::get_color' : les chemins de contrôle ne retournent pas tous une valeur
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(141): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(143): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(145): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(147): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(149): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(151): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(153): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(155): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(157): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(159): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(161): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(163): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+  ImGui DirectX 11 Kiero Hook.vcxproj -> D:\Coding\updated bo3\x64\Debug\ImGui DirectX 11 Kiero Hook.dll

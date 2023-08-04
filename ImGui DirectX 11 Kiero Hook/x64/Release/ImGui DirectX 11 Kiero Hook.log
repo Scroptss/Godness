@@ -1,0 +1,179 @@
+﻿  main.cpp
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,21): warning C4838: la conversion de 'LONG' en 'float' requiert une conversion restrictive
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,21): warning C4244: 'initialisation' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,36): warning C4838: la conversion de 'LONG' en 'float' requiert une conversion restrictive
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\imgui_notify.h(295,36): warning C4244: 'initialisation' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\structs.h(57,2): warning C4369: 'LocalClientNum_t::INVALID_LOCAL_CLIENT' : la valeur de l'énumérateur '4294967295' ne peut pas être représentée sous la forme 'int', la valeur est '4294967295'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\structs.h(1381,11): warning C4114: même qualificateur de type utilisé plusieurs fois
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(258,20): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(263,20): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(843,111): warning C4267: 'argument' : conversion de 'size_t' en 'uint32_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(963,90): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1266,80): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1298,68): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1299,57): warning C4312: 'cast de type' : la conversion de 'int' en 'char *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1300,69): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1301,74): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1302,65): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1303,70): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1304,74): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1305,74): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(1306,72): warning C4312: 'cast de type' : la conversion de 'int' en 'int32_t *' d'une taille supérieure
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(2117,18): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(2121,18): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(2498,73): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(2958,29): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3011,18): warning C4477: 'sprintf_s' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'std::string'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3014,18): warning C4477: 'sprintf_s' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'std::string'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3581,74): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3604,79): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3907,75): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3915,80): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3932,75): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3940,80): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3963,75): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3971,80): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3985,75): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3993,80): warning C4267: 'argument' : conversion de 'size_t' en 'ClientNum_t', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(4493,30): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5839,46): warning C4305: 'argument' : troncation de 'int' à 'bool'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5907,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5915,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5915,19): warning C4244: 'argument' : conversion de 'float' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5916,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5916,19): warning C4244: 'argument' : conversion de 'float' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5917,34): warning C4244: 'argument' : conversion de 'float' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5918,34): warning C4244: 'argument' : conversion de 'float' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5920,106): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5920,89): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5920,68): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5920,58): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5921,120): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5921,103): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5921,78): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5921,61): warning C4244: 'argument' : conversion de 'LONG' en 'float', perte possible de données
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5901,32): warning C4101: 'jbjfdbdsf' : variable locale non référencée
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(5901,22): warning C4101: 'oodofdfo' : variable locale non référencée
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): warning C4473: 'sprintf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): message : les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 0 ont été fournis
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(5450,39): message : l'argument variadique manquant 1 est demandé par la chaîne de format '%s'
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10242,1): message : voir la référence à l'instanciation de la fonction modèle 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10239,40): message : voir la référence à l'instanciation de la fonction modèle 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(10200,1): message : pendant la compilation de la fonction membre classe modèle 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)'
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(23185,122): message : voir la référence à l'instanciation de la fonction modèle 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)' en cours de compilation
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(23183): message : voir la référence à l'instanciation classe modèle 'nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>' en cours de compilation
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(25259,42): message : voir la référence à l'instanciation de la fonction modèle 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' en cours de compilation
+          with
+          [
+              IteratorType=const char *
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\json.hpp(25259,5): message : voir la référence à l'instanciation de la fonction modèle 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' en cours de compilation
+          with
+          [
+              IteratorType=const char *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xutility(261): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xutility(260,16): message : voir la référence à l'instanciation de la fonction modèle '_Ty *std::construct_at<_Ty,size_t&,0x0>(_Ty *const ,size_t &) noexcept(<expr>)' en cours de compilation
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(852): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Construct_in_place<unsigned int,size_t&>(_Ty &,size_t &) noexcept' en cours de compilation
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(839): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(845,13): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(925): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(927,14): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+D:\Coding\updated bo3\ImGui DirectX 11 Kiero Hook\main.cpp(3104,27): message : voir la référence à l'instanciation de la fonction modèle '_Ty &std::vector<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)' en cours de compilation
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xutility(268): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(673): warning C4267: 'initialisation' : conversion de 'size_t' en '_Objty', perte possible de données
+          with
+          [
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(875): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<std::_Vbase>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(899,32): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<std::_Vbase>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(839): message : voir la référence à l'instanciation de la fonction modèle 'unsigned int *std::vector<std::_Vbase,std::allocator<std::_Vbase>>::_Emplace_reallocate<size_t&>(unsigned int *const ,size_t &)' en cours de compilation
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(848,9): message : voir la référence à l'instanciation de la fonction modèle 'unsigned int *std::vector<std::_Vbase,std::allocator<std::_Vbase>>::_Emplace_reallocate<size_t&>(unsigned int *const ,size_t &)' en cours de compilation
+  Génération de code en cours
+  5 of 3923 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+detours.lib(detours.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'detours.lib(detours.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+detours.lib(disasm.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'detours.lib(disasm.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+detours.lib(modules.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'detours.lib(modules.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+  ImGui DirectX 11 Kiero Hook.vcxproj -> D:\Coding\updated bo3\x64\Release\ImGui DirectX 11 Kiero Hook.dll
